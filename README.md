@@ -1,6 +1,8 @@
 # Tic_Tac_Toe
 
 **This code implements a simple Tic Tac Toe game for two players, X and O. The game is played on a 3x3 grid, with players taking turns to enter their moves**.
+
+
 Key Features:
 
 Game Board: The game board is represented by two lists, xState and zState, which keep track of the positions occupied by X and O, respectively.
@@ -16,6 +18,7 @@ Win Condition Check: After each move, the code checks if the current player has 
 Draw Condition Check: If all positions are occupied and no player has won, the code declares a draw.
 
 Game Loop: The game continues until a player wins or a draw is declared.
+
 
 **Functions**:
 
